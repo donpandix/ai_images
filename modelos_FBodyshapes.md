@@ -1,9 +1,8 @@
-# FemBodyshapes - Descripciones completas
+# FemBodyshapes - Descripciones completas tipo cuerpos femeninos
 
 | ID                        | DESCRIPCION                                                                |
 | ------------------------- | -------------------------------------------------------------------------- |
 | f01_Hourglass             | cuerpo muy femenino y atractivo con forma de reloj de arena                |
-| f01_HourglassXL           | cuerpo muy femenino y esvelto con caderas y torso prominentes              |
 | f02_Petite                | cuerpo pequeño y delicado, proporciones reducidas y aspecto juvenil        |
 | f03_TallSlim              | figura alta y muy esbelta, con extremidades largas y elegantes             |
 | f04_Athletic              | cuerpo definido y tonificado, con músculos visibles y proporciones fuertes |
