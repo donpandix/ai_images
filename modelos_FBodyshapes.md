@@ -3,7 +3,7 @@
 | ID                        | DESCRIPCION                                                                      |
 | ------------------------- | ---------------------------------------------------------------------------------|
 | f01_Hourglass             | cuerpo muy femenino y atractivo con forma de reloj de arena                      |
-| f01_EyeCatching           | cuerpo atlético con busto notablemente grande, cintura estrecha y caderas anchas |
+| f02_EyeCatching           | cuerpo atlético con busto notablemente grande, cintura estrecha y caderas anchas |
 | f03_Athletic              | cuerpo definido y tonificado, con músculos visibles y proporciones fuertes       |
 | f04_PearShape             | caderas anchas y parte superior más estrecha, muy equilibrado hacia abajo        |
 | f05_AppleShape            | torso más prominente, hombros y busto anchos, cintura menos definida             |
