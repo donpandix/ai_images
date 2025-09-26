@@ -9,7 +9,7 @@ Este repositorio reúne una colección de **modelos predefinidos** diseñados pa
 
 ## 📖 Contenido
 
-* **Catálogo principal**: [`modelos_descripciones.md`](./modelos_descripciones.md)
+* **Catálogo principal**: [`modelos_general.md`](./modelos_general.md)
 
   * Incluye ID único, descripción detallada y vista previa de cada modelo.
 * **Imágenes de referencia**: disponibles en la carpeta `visual/`.
